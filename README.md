@@ -1,25 +1,32 @@
-What We're Doing
+What We Set Out to Do
 
-To make managing contacts, tasks, and appointments as easy. No databases needed here—we're keeping it simple and focusing on what matters: functionality and reliability.
+My mission To make a go-to app for managing contacts, tasks, and appointments that's super easy to use. We wanted something straightforward, without the bells and whistles, that just gets the job done.
 
-Why We Started This
 
-We wanted to tackle something that could make a real difference in our daily routines. We saw this as a perfect chance to get our hands dirty with Java and learn more about unit testing with JUnit. It's all about making something practical that we, and hopefully others, will actually use.
+The Hurdles Along the Way
 
-Cool Features We're Adding
+One of the biggest puzzles we had to solve was figuring out how to stop our app from letting you set appointments in the past. But it actually took us a good chunk of time and a lot of Googling. We ended up using Java's Calendar and Date classes, which was a bit of a brain teaser but super satisfying once we got it working.
 
-Contact Keeper: Save, update, and delete contact info without breaking a sweat.
-Task Tracker: Got tasks? We'll help you keep track of them, add new ones, and cross off the done deals.
-Appointment Assistant: Schedule your appointments without the fear of double-booking or missing a meeting because it was set in the past.
 
-Our Learning Curve
+How We Worked Together
 
-We're learning the ropes of building something from scratch that's both useful and reliable. Using JUnit to test our app means we're making sure everything works just right and catching any bugs early. We're aiming for that sweet spot of 80% test coverage to make sure our app is as bug-free as possible.
+We used Git and GitHub to keep our code in check, which meant we could work on different bits at the same time without stepping on each other's toes. We had regular catch-ups on Zoom and kept a Slack channel going for all the quick questions, memes, and, of course, panic moments.
 
-Who We Think Will Love This
 
-Honestly? Anyone who's ever felt overwhelmed by keeping track of their personal or work life. We're building this app with the hope that it'll make life a little easier, whether you're a student like us, a busy professional, or just someone trying to stay organized.
+The Cool Stuff We Learned
 
-What's Next for Us
+This project was like a crash course in Java and JUnit for us. We got to grips with:
 
-Based on feedback we get, we're ready to tweak, adjust, and add new features. We're thinking about syncing with calendars, adding security features, and maybe even making it work across different platforms.
+Java's OOP Magic: Classes, objects, inheritance – you name it, we coded it.
+JUnit Wizardry: Writing tests that actually help and not just because we have to.
+Real-World Problem-Solving: Like figuring out that pesky past appointment issue.
+
+
+Feedback & Looking Ahead
+
+Feed back pointed out some areas we hadn't even thought of, like making the user interface friendlier(That we never really needed for the assignment). We're already sketching out ideas for version 2.0, maybe even syncing up with Google Calendar to level up our app.
+
+
+Wrapping It Up
+
+Looking back, we're pretty stoked about what we've built and how much we've learned along the way. Sure, there were moments we wanted to throw our computers out the window, but hitting those breakthrough moments made it all worth it.
